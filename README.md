@@ -1,6 +1,11 @@
 # vente-tickets-bus
 Site de vente de tickets de bus en ligne
 
+## Membres du groupe 
+- ATANDZI
+- EGAH
+- MENSAN
+- TOUNOU
 
 ## Objectif
 Nous souhaitons doter la société SOTRAL d'une application de vente de billets en ligne.
