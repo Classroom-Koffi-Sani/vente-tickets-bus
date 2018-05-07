@@ -4,7 +4,7 @@ Site de vente de tickets de bus en ligne
 ## Membres du groupe 
 - ATANDZI
 - EGAH
-- MENSAN
+- MESSAN
 - TOUNOU
 
 ## Objectif
